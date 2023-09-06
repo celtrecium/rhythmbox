@@ -4,7 +4,7 @@
 Музыкальный размер всегда 4/4.
 
 ## Зависимости
-- Модуль с дисплеем Nokia 5110 и ![библиотека](https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library?ysclid=lm85pjr797627414346) для его использования
+- Модуль с дисплеем Nokia 5110 и [библиотека](https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library?ysclid=lm85pjr797627414346) для его использования
 - Кнопочная аналоговая панель 4x4 кнопки
 
 ## Настройка
